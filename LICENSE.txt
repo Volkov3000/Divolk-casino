@@ -1,0 +1,11 @@
+LICENSE NOTICE
+==============
+ProductID: 10
+VersionID: 9
+Version: 1.1
+BuyerID: 11
+WatermarkID: wm_11_9_58033d8d-5461-492a-ba00-b3c719b3f9fd
+
+This archive is personalized for the buyer above.
+Redistribution is prohibited. In case of leak, watermark identifies the source.
+
